@@ -1,0 +1,9 @@
+@import url("../app.component.css");
+
+div {
+	border: 1px solid #111111;
+	background-color: lightgray;
+	display: inline-block;
+	height: 128px;
+	width: 128px;
+}

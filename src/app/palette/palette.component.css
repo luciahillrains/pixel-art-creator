@@ -1,0 +1,46 @@
+@import url("../app.component.css");
+.palette {
+	display: inline-block;
+	vertical-align: top;
+}
+.palette button {
+	display: inline-block;
+	height: 64px;
+	width: 64px;
+}
+
+/*button.red {
+	background-color: red;
+}
+
+button.yellow {
+	background-color: yellow;
+}
+
+button.orange {
+	background-color: #f4bc42;
+}
+
+button.green {
+	background-color: green;
+}
+
+button.blue {
+	background-color: blue;
+}
+
+button.purple {
+	background-color: #a742f4;
+}
+
+button.pink {
+	background-color: #f442eb;
+}
+
+button.black {
+	background-color: #111111;
+}
+
+button.white {
+	background-color: #eeeeee;
+}*/

@@ -1,0 +1,43 @@
+.red {
+	background-color: red;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.orange {
+	background-color: #f4bc42;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.purple {
+	background-color: #a742f4;
+}
+
+.pink {
+	background-color: #f442eb;
+}
+
+.black {
+	background-color: #111111;
+}
+
+.white {
+	background-color: #eeeeee;
+}
+
+.gray {
+	background-color:lightgray;
+}
+
+.tools {
+	margin-top: 10px;
+}

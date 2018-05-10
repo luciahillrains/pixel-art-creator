@@ -1,0 +1,5 @@
+@import url('../app.component.css');
+button {
+	height: 32px;
+	width: 32px;
+}

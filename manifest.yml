@@ -1,0 +1,4 @@
+applications:
+  - name: pixel-art-creator-72
+    random-route: true
+    memory: 128M
